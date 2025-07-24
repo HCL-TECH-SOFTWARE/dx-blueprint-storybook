@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root {
+    --primary-font: 'Inter', sans-serif;
+    --chevron-border-width: 5px;
+}
+
+.sidebar-container.sidebar-container.sidebar-container {
+    background-color: #F7F8F9;
+
+    a,
+    button {
+        font-family: var(--primary-font);
+        font-size: 14px;
+        line-height: 150%;
+        letter-spacing: normal;
+        display: block;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    button>span {
+        font-size: 14px;
+        vertical-align: middle;
+        color: #525252;
+        border-width: var(--chevron-border-width);
+        margin-inline-end: 10px;
+        text-overflow: ellipsis;
+        margin-bottom: 8px;
+
+        &:first-of-type {
+            margin-top: 6px;
+        }
+    }
+}
+
+.sidebar-header {
+    div>a {
+        font-weight: 600;
+        font-size: 20px;
+        color: #272833;
+        height: 30px;
+        display: block;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    button[title="Shortcuts"] {
+        padding: 0px;
+        width: 30px;
+        height: 30px;
+
+        svg {
+            top: 6px;
+            width: 18px;
+            height: 18px;
+            color: #525252;
+        }
+    }
+}
+
+.search-field {
+    svg {
+        color: #0B7DFF;
+        top: 15px;
+    }
+
+    code {
+        top: 15px;
+    }
+
+    input {
+        border-radius: 8px;
+        border-color: #D3D6E0;
+        background-color: #FFFFFF;
+        box-shadow: 0px 2px 4px 0px #2728331F;
+        height: 42px;
+    }
+}
+
+.sidebar-subheading.sidebar-subheading {
+    border-top: 1px solid;
+    border-color: #D3D6E0;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-inline-start: 0px;
+    padding-inline-start: 16px;
+    padding-inline-end: 16px;
+
+    button {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        margin-inline-start: 0px;
+        height: 21px;
+        font-weight: 600;
+        color: #272833;
+        text-transform: capitalize;
+        text-overflow: ellipsis;
+    }
+}
+
+.sidebar-subheading-action svg {
+    color: #525252;
+}
+
+.sidebar-item.sidebar-item {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-inline-start: 0px;
+    padding-inline-start: 16px;
+    padding-inline-end: 16px;
+    min-width: 0px;
+
+    a {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        margin-inline-start: 0px;
+        font-weight: 400;
+        color: #6B6B6B;
+        height: 21px;
+        display: block;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    &[data-nodetype="group"] {
+        padding-inline-start: 32px;
+    }
+
+    &:is([data-nodetype="root"]~[data-nodetype~="document"]) {
+        padding-inline-start: 32px;
+
+        a {
+            padding-inline-start: 20px;
+        }
+    }
+
+    &~[data-nodetype="component"] {
+        padding-inline-start: 48px;
+
+        &~[data-nodetype~="story"],
+        &~[data-nodetype~="document"] {
+            padding-inline-start: 64px;
+
+            a {
+                padding-inline-start: 20px;
+            }
+        }
+    }
+
+    &[data-selected="true"],
+    &:hover {
+        color: #272833 !important;
+        background-color: #D3D6E0 !important;
+    }
+
+    :is(a, button) svg {
+        display: none;
+    }
+
+    svg {
+        display: none;
+    }
+}
