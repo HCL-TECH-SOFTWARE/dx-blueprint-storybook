@@ -1,6 +1,6 @@
 :root {
     /** _10-regular **/
-    --_10-regular-font-family: "SF Pro Text", "SFProText-Regular";
+    --_10-regular-font-family: "NotoSans", "NotoSans-Regular";
     --_10-regular-font-size: 10px;
     --_10-regular-letter-spacing: 0px;
     --_10-regular-line-height: 150%;
@@ -8,7 +8,7 @@
     --_10-regular-text-transform: uppercase;
     --_10-regular-color: black;
     /** _10-semibold **/
-    --_10-semibold-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_10-semibold-font-family: "NotoSans", "NotoSans-Semibold";
     --_10-semibold-font-size: 10px;
     --_10-semibold-letter-spacing: 0px;
     --_10-semibold-line-height: 150%;
@@ -16,7 +16,7 @@
     --_10-semibold-text-transform: uppercase;
     --_10-semibold-color: black;
     /** _10-bold **/
-    --_10-bold-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_10-bold-font-family: "NotoSans", "NotoSans-Semibold";
     --_10-bold-font-size: 10px;
     --_10-bold-letter-spacing: 0px;
     --_10-bold-line-height: 125%;
@@ -24,259 +24,259 @@
     --_10-bold-text-transform: uppercase;
     --_10-bold-color: black;
     /** _12-regular **/
-    --_12-regular-font-family: "SF Pro Text", "SFProText-Regular";
+    --_12-regular-font-family: "NotoSans", "NotoSans-Regular";
     --_12-regular-font-size: 12px;
     --_12-regular-letter-spacing: 0px;
     --_12-regular-line-height: 150%;
     --_12-regular-font-weight: 400;
     --_12-regular-color: black;
     /** _12-regular-125 **/
-    --_12-regular-125-font-family: 'SF Pro Text', 'SFProText-Regular';
+    --_12-regular-125-font-family: "NotoSans" , 'NotoSans-Regular';
     --_12-regular-125-font-size: 12px;
     --_12-regular-125-letter-spacing: 0px;
     --_12-regular-125-line-height: 125%;
     --_12-regular-125-font-weight: 400;
     --_12-regular-125-color: black;
     /** _12-semibold **/
-    --_12-semibold-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_12-semibold-font-family: "NotoSans", "NotoSans-Semibold";
     --_12-semibold-font-size: 12px;
     --_12-semibold-letter-spacing: 0px;
     --_12-semibold-line-height: 150%;
     --_12-semibold-font-weight: 600;
     --_12-semibold-color: black;
     /** _14-regular **/
-    --_14-regular-font-family: "SF Pro Text", "SFProText-Regular";
+    --_14-regular-font-family: "NotoSans", "NotoSans-Regular";
     --_14-regular-font-size: 14px;
     --_14-regular-letter-spacing: 0px;
     --_14-regular-line-height: 150%;
     --_14-regular-font-weight: 400;
     --_14-regular-color: black;
     /** _14-semibold **/
-    --_14-semibold-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_14-semibold-font-family: "NotoSans", "NotoSans-Semibold";
     --_14-semibold-font-size: 14px;
     --_14-semibold-letter-spacing: 0px;
     --_14-semibold-line-height: 150%;
     --_14-semibold-font-weight: 600;
     --_14-semibold-color: black;
     /** _14-primary-regular-100 **/
-    --_14-primary-regular-100-font-family: "SF Pro Text", "SFProText-Regular";
+    --_14-primary-regular-100-font-family: "NotoSans", "NotoSans-Regular";
     --_14-primary-regular-100-font-size: 14px;
     --_14-primary-regular-100-letter-spacing: 0px;
     --_14-primary-regular-100-line-height: 100%;
     --_14-primary-regular-100-font-weight: 400;
     --_14-primary-regular-100-color: black;
     /** _14-primary-regular-125 **/
-    --_14-primary-regular-125-font-family: "SF Pro Text", "SFProText-Regular";
+    --_14-primary-regular-125-font-family: "NotoSans", "NotoSans-Regular";
     --_14-primary-regular-125-font-size: 14px;
     --_14-primary-regular-125-letter-spacing: 0px;
     --_14-primary-regular-125-line-height: 125%;
     --_14-primary-regular-125-font-weight: 400;
     --_14-primary-regular-125-color: black;
     /** _16-regular **/
-    --_16-regular-font-family: "SF Pro Text", "SFProText-Regular";
+    --_16-regular-font-family: "NotoSans", "NotoSans-Regular";
     --_16-regular-font-size: 16px;
     --_16-regular-letter-spacing: 0px;
     --_16-regular-line-height: 150%;
     --_16-regular-font-weight: 400;
     --_16-regular-color: black;
     /** _16-regular-125 **/
-    --_16-regular-125-font-family: "SF Pro Text", "SFProText-Regular";
+    --_16-regular-125-font-family: "NotoSans", "NotoSans-Regular";
     --_16-regular-125-font-size: 16px;
     --_16-regular-125-letter-spacing: 0px;
     --_16-regular-125-line-height: 125%;
     --_16-regular-125-font-weight: 400;
     --_16-regular-125-color: black;
     /** _16-regular-150 **/
-    --_16-regular-150-font-family: 'SF Pro Text', 'SFProText-Regular';
+    --_16-regular-150-font-family: "NotoSans" , 'NotoSans-Regular';
     --_16-regular-150-font-size: 16px;
     --_16-regular-150-letter-spacing: 0px;
     --_16-regular-150-line-height: 150%;
     --_16-regular-150-font-weight: 400;
     --_16-regular-150-color: black;
     /** _16-semibold **/
-    --_16-semibold-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_16-semibold-font-family: "NotoSans", "NotoSans-Semibold";
     --_16-semibold-font-size: 16px;
     --_16-semibold-letter-spacing: 0px;
     --_16-semibold-line-height: 150%;
     --_16-semibold-font-weight: 600;
     --_16-semibold-color: black;
     /** _16-bold **/
-    --_16-bold-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_16-bold-font-family: "NotoSans", "NotoSans-Semibold";
     --_16-bold-font-size: 16px;
     --_16-bold-letter-spacing: 0px;
     --_16-bold-line-height: 150%;
     --_16-bold-font-weight: 700;
     --_16-bold-color: black;
     /** _18-regular **/
-    --_18-regular-font-family: "SF Pro Text", "SFProText-Regular";
+    --_18-regular-font-family: "NotoSans", "NotoSans-Regular";
     --_18-regular-font-size: 18px;
     --_18-regular-letter-spacing: 0px;
     --_18-regular-line-height: 150%;
     --_18-regular-font-weight: 400;
     --_18-regular-color: black;
     /** _18-semibold **/
-    --_18-semibold-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_18-semibold-font-family: "NotoSans", "NotoSans-Semibold";
     --_18-semibold-font-size: 18px;
     --_18-semibold-letter-spacing: 0px;
     --_18-semibold-line-height: 150%;
     --_18-semibold-font-weight: 600;
     --_18-semibold-color: black;
     /** _18-bold **/
-    --_18-bold-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_18-bold-font-family: "NotoSans", "NotoSans-Semibold";
     --_18-bold-font-size: 18px;
     --_18-bold-letter-spacing: 0px;
     --_18-bold-line-height: 125%;
     --_18-bold-font-weight: 700;
     --_18-bold-color: black;
     /** _20-bold **/
-    --_20-bold-font-family: "SF Pro Text", "SFProText-Bold";
+    --_20-bold-font-family: "NotoSans", "NotoSans-Bold";
     --_20-bold-font-size: 20px;
     --_20-bold-letter-spacing: 0px;
     --_20-bold-line-height: 150%;
     --_20-bold-font-weight: 700;
     --_20-bold-color: black;
     /** _20-regular **/
-    --_20-regular-font-family: "SF Pro Text", "SFProText-Regular";
+    --_20-regular-font-family: "NotoSans", "NotoSans-Regular";
     --_20-regular-font-size: 20px;
     --_20-regular-letter-spacing: 0px;
     --_20-regular-line-height: 150%;
     --_20-regular-font-weight: 400;
     --_20-regular-color: black;
     /** _20-semibold **/
-    --_20-semibold-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_20-semibold-font-family: "NotoSans", "NotoSans-Semibold";
     --_20-semibold-font-size: 20px;
     --_20-semibold-letter-spacing: 0px;
     --_20-semibold-line-height: 150%;
     --_20-semibold-font-weight: 600;
     --_20-semibold-color: black;
     /** _20-semibold-125 **/
-    --_20-semibold-125-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_20-semibold-125-font-family: "NotoSans", "NotoSans-Semibold";
     --_20-semibold-125-font-size: 20px;
     --_20-semibold-125-letter-spacing: 0px;
     --_20-semibold-125-line-height: 125%;
     --_20-semibold-125-font-weight: 600;
     --_20-semibold-125-color: black;
     /** _22-semibold **/
-    --_22-semibold-font-family: "SF Pro Text", "SFProText-Bold";
+    --_22-semibold-font-family: "NotoSans", "NotoSans-Bold";
     --_22-semibold-font-size: 22px;
     --_22-semibold-letter-spacing: 0px;
     --_22-semibold-line-height: 150%;
     --_22-semibold-font-weight: 600;
     --_22-semibold-color: black;
     /** _24-semibold **/
-    --_24-semibold-font-family: "SF Pro Text", "SFProText-Bold";
+    --_24-semibold-font-family: "NotoSans", "NotoSans-Bold";
     --_24-semibold-font-size: 24px;
     --_24-semibold-letter-spacing: 0px;
     --_24-semibold-line-height: 150%;
     --_24-semibold-font-weight: 600;
     --_24-semibold-color: black;
     /** _24-bold **/
-    --_24-bold-font-family: "SF Pro Text", "SFProText-Bold";
+    --_24-bold-font-family: "NotoSans", "NotoSans-Bold";
     --_24-bold-font-size: 24px;
     --_24-bold-letter-spacing: 0px;
     --_24-bold-line-height: 150%;
     --_24-bold-font-weight: 700;
     --_24-bold-color: black;
     /** _24-bold-125 **/
-    --_24-bold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_24-bold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_24-bold-125-font-size: 24px;
     --_24-bold-125-letter-spacing: 0px;
     --_24-bold-125-line-height: 125%;
     --_24-bold-125-font-weight: 700;
     --_24-bold-125-color: black;
     /** _24-regular **/
-    --_24-regular-font-family: "SF Pro Text", "SFProText-Regular";
+    --_24-regular-font-family: "NotoSans", "NotoSans-Regular";
     --_24-regular-font-size: 24px;
     --_24-regular-letter-spacing: 0px;
     --_24-regular-line-height: 150%;
     --_24-regular-font-weight: 400;
     --_24-regular-color: black;
     /** _28-regular **/
-    --_28-regular-font-family: "SF Pro Text", "SFProText-Regular";
+    --_28-regular-font-family: "NotoSans", "NotoSans-Regular";
     --_28-regular-font-size: 28px;
     --_28-regular-letter-spacing: 0px;
     --_28-regular-line-height: 150%;
     --_28-regular-font-weight: 400;
     --_28-regular-color: black;
     /** _28-semibold **/
-    --_28-semibold-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_28-semibold-font-family: "NotoSans", "NotoSans-Semibold";
     --_28-semibold-font-size: 28px;
     --_28-semibold-letter-spacing: 0px;
     --_28-semibold-line-height: 150%;
     --_28-semibold-font-weight: 600;
     --_28-semibold-color: black;
     /** _28-bold **/
-    --_28-bold-font-family: "SF Pro Text", "SFProText-Bold";
+    --_28-bold-font-family: "NotoSans", "NotoSans-Bold";
     --_28-bold-font-size: 28px;
     --_28-bold-letter-spacing: 0px;
     --_28-bold-line-height: 150%;
     --_28-bold-font-weight: 700;
     --_28-bold-color: black;
     /** _28-bold-125 **/
-    --_28-bold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_28-bold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_28-bold-125-font-size: 28px;
     --_28-bold-125-letter-spacing: 0px;
     --_28-bold-125-line-height: 125%;
     --_28-bold-125-font-weight: 700;
     --_28-bold-125-color: black;
     /** _32-regular **/
-    --_32-regular-font-family: "SF Pro Text", "SFProText-Regular";
+    --_32-regular-font-family: "NotoSans", "NotoSans-Regular";
     --_32-regular-font-size: 32px;
     --_32-regular-letter-spacing: 0px;
     --_32-regular-line-height: 150%;
     --_32-regular-font-weight: 400;
     --_32-regular-color: black;
     /** _32-bold **/
-    --_32-bold-font-family: "SF Pro Text", "SFProText-Bold";
+    --_32-bold-font-family: "NotoSans", "NotoSans-Bold";
     --_32-bold-font-size: 32px;
     --_32-bold-letter-spacing: 0px;
     --_32-bold-line-height: 150%;
     --_32-bold-font-weight: 700;
     --_32-bold-color: black;
     /** _36-regular **/
-    --_36-regular-font-family: "SF Pro Text", "SFProText-Regular";
+    --_36-regular-font-family: "NotoSans", "NotoSans-Regular";
     --_36-regular-font-size: 36px;
     --_36-regular-letter-spacing: 0px;
     --_36-regular-line-height: 150%;
     --_36-regular-font-weight: 400;
     --_36-regular-color: black;
     /** _36-bold **/
-    --_36-bold-font-family: "SF Pro Text", "SFProText-Bold";
+    --_36-bold-font-family: "NotoSans", "NotoSans-Bold";
     --_36-bold-font-size: 36px;
     --_36-bold-letter-spacing: 0px;
     --_36-bold-line-height: 150%;
     --_36-bold-font-weight: 700;
     --_36-bold-color: black;
     /** _40-regular **/
-    --_40-regular-font-family: "SF Pro Text", "SFProText-Regular";
+    --_40-regular-font-family: "NotoSans", "NotoSans-Regular";
     --_40-regular-font-size: 40px;
     --_40-regular-letter-spacing: 0px;
     --_40-regular-line-height: 150%;
     --_40-regular-font-weight: 400;
     --_40-regular-color: black;
     /** _40-semibold **/
-    --_40-semibold-font-family: "SF Pro Text", "SFProText-Regular";
+    --_40-semibold-font-family: "NotoSans", "NotoSans-Regular";
     --_40-semibold-font-size: 40px;
     --_40-semibold-letter-spacing: 0px;
     --_40-semibold-line-height: 150%;
     --_40-semibold-font-weight: 600;
     --_40-semibold-color: black;
     /** _40-semibold-100**/
-    --_40-semibold-100-font-family: "SF Pro Text";
+    --_40-semibold-100-font-family: "NotoSans";
     --_40-semibold-100-font-size: 40px;
     --_40-semibold-100-letter-spacing: 0px;
     --_40-semibold-100-line-height: 100%;
     --_40-semibold-100-font-weight: 600;
     --_40-semibold-100-color: black;
     /** _40-bold **/
-    --_40-bold-font-family: "SF Pro Text", "SFProText-Regular";
+    --_40-bold-font-family: "NotoSans", "NotoSans-Regular";
     --_40-bold-font-size: 40px;
     --_40-bold-letter-spacing: 0px;
     --_40-bold-line-height: 125%;
     --_40-bold-font-weight: 700;
     --_40-bold-color: black;
     /** _54-bold **/
-    --_54-bold-font-family: "SF Pro Text", "SFProText-Regular";
+    --_54-bold-font-family: "NotoSans", "NotoSans-Regular";
     --_54-bold-font-size: 54px;
     --_54-bold-letter-spacing: 0px;
     --_54-bold-line-height: 125%;
@@ -286,7 +286,7 @@
     /* ==== NEW FONT TOKENS ==== */
 
     /** _10-bold-125 **/
-    --_10-bold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_10-bold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_10-bold-125-font-size: 10px;
     --_10-bold-125-letter-spacing: 0px;
     --_10-bold-125-line-height: 125%;
@@ -294,14 +294,14 @@
     --_10-bold-125-text-transform: uppercase;
     --_10-bold-125-color: black;
     /** _10-primary-semibold-100 **/
-    --_10-primary-semibold-100-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_10-primary-semibold-100-font-family: "NotoSans", "NotoSans-Semibold";
     --_10-primary-semibold-100-font-size: 10px;
     --_10-primary-semibold-100-letter-spacing: 0px;
     --_10-primary-semibold-100-line-height: 100%;
     --_10-primary-semibold-100-font-weight: 600;
     --_10-primary-semibold-100-color: black;
     /** _10-semibold-125 **/
-    --_10-semibold-125-font-family: 'SF Pro Text', 'SFProText-Semibold';
+    --_10-semibold-125-font-family: "NotoSans" , 'NotoSans-Semibold';
     --_10-semibold-125-font-size: 10px;
     --_10-semibold-125-letter-spacing: 0px;
     --_10-semibold-125-line-height: 125%;
@@ -309,7 +309,7 @@
     --_10-semibold-125-text-transform: uppercase;
     --_10-semibold-125-color: black;
     /** _10-primary-semibold-150 **/
-    --_10-primary-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_10-primary-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_10-primary-semibold-150-font-size: 10px;
     --_10-primary-semibold-150-letter-spacing: 0px;
     --_10-primary-semibold-150-line-height: 150%;
@@ -317,7 +317,7 @@
     --_10-primary-semibold-150-text-transform: uppercase;
     --_10-primary-semibold-150-color: black;
     /** _10-primary-regular-100 **/
-    --_10-primary-regular-100-font-family: 'SF Pro Text', 'SFProText-Regular';
+    --_10-primary-regular-100-font-family: "NotoSans" , 'NotoSans-Regular';
     --_10-primary-regular-100-font-size: 10px;
     --_10-primary-regular-100-letter-spacing: 0px;
     --_10-primary-regular-100-line-height: 100%;
@@ -325,7 +325,7 @@
     --_10-primary-regular-100-text-transform: uppercase;
     --_10-primary-regular-100-color: black;
     /** _10-primary-regular-125 **/
-    --_10-primary-regular-125-font-family: "SF Pro Text", "SFProText-Regular";
+    --_10-primary-regular-125-font-family: "NotoSans", "NotoSans-Regular";
     --_10-primary-regular-125-font-size: 10px;
     --_10-primary-regular-125-letter-spacing: 0px;
     --_10-primary-regular-125-line-height: 125%;
@@ -333,7 +333,7 @@
     --_10-primary-regular-125-text-transform: uppercase;
     --_10-primary-regular-125-color: black;
     /** _10-primary-regular-150 **/
-    --_10-primary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_10-primary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_10-primary-regular-150-font-size: 10px;
     --_10-primary-regular-150-letter-spacing: 0px;
     --_10-primary-regular-150-line-height: 150%;
@@ -341,7 +341,7 @@
     --_10-primary-regular-150-text-transform: uppercase;
     --_10-primary-regular-150-color: black;
     /** _10-regular-150 **/
-    --_10-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_10-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_10-regular-150-font-size: 10px;
     --_10-regular-150-letter-spacing: 0px;
     --_10-regular-150-line-height: 150%;
@@ -349,7 +349,7 @@
     --_10-regular-150-text-transform: uppercase;
     --_10-regular-150-color: black;
     /** _10-secondary-regular-150 **/
-    --_10-secondary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_10-secondary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_10-secondary-regular-150-font-size: 10px;
     --_10-secondary-regular-150-letter-spacing: 0px;
     --_10-secondary-regular-150-line-height: 150%;
@@ -357,7 +357,7 @@
     --_10-secondary-regular-150-text-transform: uppercase;
     --_10-secondary-regular-150-color: black;
     /** _10-semibold **/
-    --_10-semibold-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_10-semibold-font-family: "NotoSans", "NotoSans-Semibold";
     --_10-semibold-font-size: 10px;
     --_10-semibold-letter-spacing: 0px;
     --_10-semibold-line-height: 150%;
@@ -365,7 +365,7 @@
     --_10-semibold-text-transform: uppercase;
     --_10-semibold-color: black;
     /** _10-semibold-150 **/
-    --_10-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_10-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_10-semibold-150-font-size: 10px;
     --_10-semibold-150-letter-spacing: 0px;
     --_10-semibold-150-line-height: 150%;
@@ -373,98 +373,98 @@
     --_10-semibold-150-text-transform: uppercase;
     --_10-semibold-150-color: black;
     /** _12-primary-semibold-100 **/
-    --_12-primary-semibold-100-font-family: 'SF Pro Text', 'SFProText-Regular';
+    --_12-primary-semibold-100-font-family: "NotoSans" , 'NotoSans-Regular';
     --_12-primary-semibold-100-font-size: 12px;
     --_12-primary-semibold-100-letter-spacing: 0px;
     --_12-primary-semibold-100-line-height: 100%;
     --_12-primary-semibold-100-font-weight: 600;
     --_12-primary-semibold-100-color: black;
     /** _12-primary-semibold-150 **/
-    --_12-primary-semibold-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_12-primary-semibold-150-font-family: "NotoSans", "NotoSans-Regular";
     --_12-primary-semibold-150-font-size: 12px;
     --_12-primary-semibold-150-letter-spacing: 0px;
     --_12-primary-semibold-150-line-height: 150%;
     --_12-primary-semibold-150-font-weight: 600;
     --_12-primary-semibold-150-color: black;
     /** _12-primary-regular-100 **/
-    --_12-primary-regular-100-font-family: "SF Pro Text", "SFProText-Regular";
+    --_12-primary-regular-100-font-family: "NotoSans", "NotoSans-Regular";
     --_12-primary-regular-100-font-size: 12px;
     --_12-primary-regular-100-letter-spacing: 0px;
     --_12-primary-regular-100-line-height: 100%;
     --_12-primary-regular-100-font-weight: 400;
     --_12-primary-regular-100-color: black;
     /** _12-primary-regular-125 **/
-    --_12-primary-regular-125-font-family: "SF Pro Text", "SFProText-Regular";
+    --_12-primary-regular-125-font-family: "NotoSans", "NotoSans-Regular";
     --_12-primary-regular-125-font-size: 12px;
     --_12-primary-regular-125-letter-spacing: 0px;
     --_12-primary-regular-125-line-height: 125%;
     --_12-primary-regular-125-font-weight: 400;
     --_12-primary-regular-125-color: black;
     /** _12-primary-regular-150 **/
-    --_12-primary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_12-primary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_12-primary-regular-150-font-size: 12px;
     --_12-primary-regular-150-letter-spacing: 0px;
     --_12-primary-regular-150-line-height: 150%;
     --_12-primary-regular-150-font-weight: 400;
     --_12-primary-regular-150-color: black;
     /** _12-regular **/
-    --_12-regular-font-family: "SF Pro Text", "SFProText-Regular";
+    --_12-regular-font-family: "NotoSans", "NotoSans-Regular";
     --_12-regular-font-size: 12px;
     --_12-regular-letter-spacing: 0px;
     --_12-regular-line-height: 150%;
     --_12-regular-font-weight: 400;
     --_12-regular-color: black;
     /** _12-regular-150 **/
-    --_12-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_12-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_12-regular-150-font-size: 12px;
     --_12-regular-150-letter-spacing: 0px;
     --_12-regular-150-line-height: 150%;
     --_12-regular-150-font-weight: 400;
     --_12-regular-150-color: black;
     /** _12-secondary-regular-125 **/
-    --_12-secondary-regular-125-font-family: "SF Pro Text", "SFProText-Regular";
+    --_12-secondary-regular-125-font-family: "NotoSans", "NotoSans-Regular";
     --_12-secondary-regular-125-font-size: 12px;
     --_12-secondary-regular-125-letter-spacing: 0px;
     --_12-secondary-regular-125-line-height: 125%;
     --_12-secondary-regular-125-font-weight: 400;
     --_12-secondary-regular-125-color: black;
     /** _12-secondary-regular-150 **/
-    --_12-secondary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_12-secondary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_12-secondary-regular-150-font-size: 12px;
     --_12-secondary-regular-150-letter-spacing: 0px;
     --_12-secondary-regular-150-line-height: 150%;
     --_12-secondary-regular-150-font-weight: 400;
     --_12-secondary-regular-150-color: black;
     /** _12-semibold **/
-    --_12-semibold-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_12-semibold-font-family: "NotoSans", "NotoSans-Semibold";
     --_12-semibold-font-size: 12px;
     --_12-semibold-letter-spacing: 0px;
     --_12-semibold-line-height: 150%;
     --_12-semibold-font-weight: 600;
     --_12-semibold-color: black;
     /** _12-semibold-150 **/
-    --_12-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_12-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_12-semibold-150-font-size: 12px;
     --_12-semibold-150-letter-spacing: 0px;
     --_12-semibold-150-line-height: 150%;
     --_12-semibold-150-font-weight: 600;
     --_12-semibold-150-color: black;
     /** _14-bold-150 **/
-    --_14-bold-150-font-family: "SF Pro Text", "SFProText-Bold";
+    --_14-bold-150-font-family: "NotoSans", "NotoSans-Bold";
     --_14-bold-150-font-size: 14px;
     --_14-bold-150-letter-spacing: 0px;
     --_14-bold-150-line-height: 150%;
     --_14-bold-150-font-weight: 700;
     --_14-bold-150-color: black;
     /** _14-bold-125 **/
-    --_14-bold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_14-bold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_14-bold-125-font-size: 14px;
     --_14-bold-125-letter-spacing: 0px;
     --_14-bold-125-line-height: 125%;
     --_14-bold-125-font-weight: 700;
     --_14-bold-125-color: black;
     /** _14-regular-125 **/
-    --_14-regular-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_14-regular-125-font-family: "NotoSans", "NotoSans-Bold";
     --_14-regular-125-font-size: 14px;
     --_14-regular-125-letter-spacing: 0px;
     --_14-regular-125-line-height: 125%;
@@ -478,133 +478,133 @@
     --_14-montserrat-semibold-font-weight: 600;
     --_14-montserrat-semibold-color: black;
     /** _14-primary-bold-100 **/
-    --_14-primary-bold-100-font-family: "SF Pro Text", "SFProText-Bold";
+    --_14-primary-bold-100-font-family: "NotoSans", "NotoSans-Bold";
     --_14-primary-bold-100-font-size: 14px;
     --_14-primary-bold-100-letter-spacing: 0px;
     --_14-primary-bold-100-line-height: 100%;
     --_14-primary-bold-100-font-weight: 700;
     --_14-primary-bold-100-color: black;
     /** _14-primary-bold-125 **/
-    --_14-primary-bold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_14-primary-bold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_14-primary-bold-125-font-size: 14px;
     --_14-primary-bold-125-letter-spacing: 0px;
     --_14-primary-bold-125-line-height: 125%;
     --_14-primary-bold-125-font-weight: 700;
     --_14-primary-bold-125-color: black;
     /** _14-primary-bold-150 **/
-    --_14-primary-bold-150-font-family: "SF Pro Text", "SFProText-Bold";
+    --_14-primary-bold-150-font-family: "NotoSans", "NotoSans-Bold";
     --_14-primary-bold-150-font-size: 14px;
     --_14-primary-bold-150-letter-spacing: 0px;
     --_14-primary-bold-150-line-height: 150%;
     --_14-primary-bold-150-font-weight: 700;
     --_14-primary-bold-150-color: black;
     /** _14-primary-regular-100 **/
-    --_14-primary-regular-100-font-family: "SF Pro Text", "SFProText-Regular";
+    --_14-primary-regular-100-font-family: "NotoSans", "NotoSans-Regular";
     --_14-primary-regular-100-font-size: 14px;
     --_14-primary-regular-100-letter-spacing: 0px;
     --_14-primary-regular-100-line-height: 100%;
     --_14-primary-regular-100-font-weight: 400;
     --_14-primary-regular-100-color: black;
     /** _14-primary-regular-125 **/
-    --_14-primary-regular-125-font-family: "SF Pro Text", "SFProText-Regular";
+    --_14-primary-regular-125-font-family: "NotoSans", "NotoSans-Regular";
     --_14-primary-regular-125-font-size: 14px;
     --_14-primary-regular-125-letter-spacing: 0px;
     --_14-primary-regular-125-line-height: 125%;
     --_14-primary-regular-125-font-weight: 400;
     --_14-primary-regular-125-color: black;
     /** _14-primary-regular-150 **/
-    --_14-primary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_14-primary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_14-primary-regular-150-font-size: 14px;
     --_14-primary-regular-150-letter-spacing: 0px;
     --_14-primary-regular-150-line-height: 150%;
     --_14-primary-regular-150-font-weight: 400;
     --_14-primary-regular-150-color: black;
     /** _14-primary-semibold-100 **/
-    --_14-primary-semibold-100-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_14-primary-semibold-100-font-family: "NotoSans", "NotoSans-Semibold";
     --_14-primary-semibold-100-font-size: 14px;
     --_14-primary-semibold-100-letter-spacing: 0px;
     --_14-primary-semibold-100-line-height: 100%;
     --_14-primary-semibold-100-font-weight: 600;
     --_14-primary-semibold-100-color: black;
     /** _14-primary-semibold-125 **/
-    --_14-primary-semibold-125-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_14-primary-semibold-125-font-family: "NotoSans", "NotoSans-Semibold";
     --_14-primary-semibold-125-font-size: 14px;
     --_14-primary-semibold-125-letter-spacing: 0px;
     --_14-primary-semibold-125-line-height: 125%;
     --_14-primary-semibold-125-font-weight: 600;
     --_14-primary-semibold-125-color: black;
     /** _14-primary-semibold-150 **/
-    --_14-primary-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_14-primary-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_14-primary-semibold-150-font-size: 14px;
     --_14-primary-semibold-150-letter-spacing: 0px;
     --_14-primary-semibold-150-line-height: 150%;
     --_14-primary-semibold-150-font-weight: 600;
     --_14-primary-semibold-150-color: black;
     /** _14-regular **/
-    --_14-regular-font-family: "SF Pro Text", "SFProText-Regular";
+    --_14-regular-font-family: "NotoSans", "NotoSans-Regular";
     --_14-regular-font-size: 14px;
     --_14-regular-letter-spacing: 0px;
     --_14-regular-line-height: 150%;
     --_14-regular-font-weight: 400;
     --_14-regular-color: black;
     /** _14-regular-150 **/
-    --_14-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_14-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_14-regular-150-font-size: 14px;
     --_14-regular-150-letter-spacing: 0px;
     --_14-regular-150-line-height: 150%;
     --_14-regular-150-font-weight: 400;
     --_14-regular-150-color: black;
     /** _14-secondary-regular-150 **/
-    --_14-secondary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_14-secondary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_14-secondary-regular-150-font-size: 14px;
     --_14-secondary-regular-150-letter-spacing: 0px;
     --_14-secondary-regular-150-line-height: 150%;
     --_14-secondary-regular-150-font-weight: 400;
     --_14-secondary-regular-150-color: black;
     /** _14-semibold **/
-    --_14-semibold-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_14-semibold-font-family: "NotoSans", "NotoSans-Semibold";
     --_14-semibold-font-size: 14px;
     --_14-semibold-letter-spacing: 0px;
     --_14-semibold-line-height: 150%;
     --_14-semibold-font-weight: 600;
     --_14-semibold-color: black;
     /** _14-semibold-125 **/
-    --_14-semibold-125-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_14-semibold-125-font-family: "NotoSans", "NotoSans-Semibold";
     --_14-semibold-125-font-size: 14px;
     --_14-semibold-125-letter-spacing: 0px;
     --_14-semibold-125-line-height: 125%;
     --_14-semibold-125-font-weight: 600;
     --_14-semibold-125-color: black;
     /** _14-semibold-150 **/
-    --_14-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_14-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_14-semibold-150-font-size: 14px;
     --_14-semibold-150-letter-spacing: 0px;
     --_14-semibold-150-line-height: 150%;
     --_14-semibold-150-font-weight: 600;
     --_14-semibold-150-color: black;
     /** _16-semibold-150 **/
-    --_16-semibold-150-font-family: "SF Pro Text", "SFProText-Bold";
+    --_16-semibold-150-font-family: "NotoSans", "NotoSans-Bold";
     --_16-semibold-150-font-size: 16px;
     --_16-semibold-150-letter-spacing: 0px;
     --_16-semibold-150-line-height: 150%;
     --_16-semibold-150-font-weight: 600;
     --_16-semibold-150-color: black;
     /** _16-bold-125 **/
-    --_16-bold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_16-bold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_16-bold-125-font-size: 16px;
     --_16-bold-125-letter-spacing: 0px;
     --_16-bold-125-line-height: 125%;
     --_16-bold-125-font-weight: 700;
     --_16-bold-125-color: black;
     /** _16-bold-150 **/
-    --_16-bold-150-font-family: "SF Pro Text", "SFProText-Bold";
+    --_16-bold-150-font-family: "NotoSans", "NotoSans-Bold";
     --_16-bold-150-font-size: 16px;
     --_16-bold-150-letter-spacing: 0px;
     --_16-bold-150-line-height: 150%;
     --_16-bold-150-font-weight: 700;
     --_16-bold-150-color: black;
     /** _16-link-text **/
-    --_16-link-text-font-family: "SF Pro Text", "SFProText-Regular";
+    --_16-link-text-font-family: "NotoSans", "NotoSans-Regular";
     --_16-link-text-font-size: 16px;
     --_16-link-text-letter-spacing: 0px;
     --_16-link-text-line-height: 150%;
@@ -619,209 +619,209 @@
     --_16-montserrat-bold-font-weight: 700;
     --_16-montserrat-bold-color: black;
     /** _16-primary-bold-150 **/
-    --_16-primary-bold-150-font-family: "SF Pro Text", "SFProText-Bold";
+    --_16-primary-bold-150-font-family: "NotoSans", "NotoSans-Bold";
     --_16-primary-bold-150-font-size: 16px;
     --_16-primary-bold-150-letter-spacing: 0px;
     --_16-primary-bold-150-line-height: 150%;
     --_16-primary-bold-150-font-weight: 700;
     --_16-primary-bold-150-color: black;
     /** _16-primary-regular-100 **/
-    --_16-primary-regular-100-font-family: "SF Pro Text", "SFProText-Regular";
+    --_16-primary-regular-100-font-family: "NotoSans", "NotoSans-Regular";
     --_16-primary-regular-100-font-size: 16px;
     --_16-primary-regular-100-letter-spacing: 0px;
     --_16-primary-regular-100-line-height: 100%;
     --_16-primary-regular-100-font-weight: 400;
     --_16-primary-regular-100-color: black;
     /** _16-primary-regular-125 **/
-    --_16-primary-regular-125-font-family: "SF Pro Text", "SFProText-Regular";
+    --_16-primary-regular-125-font-family: "NotoSans", "NotoSans-Regular";
     --_16-primary-regular-125-font-size: 16px;
     --_16-primary-regular-125-letter-spacing: 0px;
     --_16-primary-regular-125-line-height: 125%;
     --_16-primary-regular-125-font-weight: 400;
     --_16-primary-regular-125-color: black;
     /** _16-primary-regular-150 **/
-    --_16-primary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_16-primary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_16-primary-regular-150-font-size: 16px;
     --_16-primary-regular-150-letter-spacing: 0px;
     --_16-primary-regular-150-line-height: 150%;
     --_16-primary-regular-150-font-weight: 400;
     --_16-primary-regular-150-color: black;
     /** _16-primary-semibold-100 **/
-    --_16-primary-semibold-100-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_16-primary-semibold-100-font-family: "NotoSans", "NotoSans-Semibold";
     --_16-primary-semibold-100-font-size: 16px;
     --_16-primary-semibold-100-letter-spacing: 0px;
     --_16-primary-semibold-100-line-height: 100%;
     --_16-primary-semibold-100-font-weight: 600;
     --_16-primary-semibold-100-color: black;
     /** _16-primary-semibold-125 **/
-    --_16-primary-semibold-125-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_16-primary-semibold-125-font-family: "NotoSans", "NotoSans-Semibold";
     --_16-primary-semibold-125-font-size: 16px;
     --_16-primary-semibold-125-letter-spacing: 0px;
     --_16-primary-semibold-125-line-height: 125%;
     --_16-primary-semibold-125-font-weight: 600;
     --_16-primary-semibold-125-color: black;
     /** _16-primary-bold-125 **/
-    --_16-primary-bold-125-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_16-primary-bold-125-font-family: "NotoSans", "NotoSans-Semibold";
     --_16-primary-bold-125-font-size: 16px;
     --_16-primary-bold-125-letter-spacing: 0px;
     --_16-primary-bold-125-line-height: 125%;
     --_16-primary-bold-125-font-weight: 700;
     --_16-primary-bold-125-color: black;
     /** _16-primary-semibold-150 **/
-    --_16-primary-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_16-primary-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_16-primary-semibold-150-font-size: 16px;
     --_16-primary-semibold-150-letter-spacing: 0px;
     --_16-primary-semibold-150-line-height: 150%;
     --_16-primary-semibold-150-font-weight: 600;
     --_16-primary-semibold-150-color: black;
     /** _16-regular **/
-    --_16-regular-font-family: "SF Pro Text", "SFProText-Regular";
+    --_16-regular-font-family: "NotoSans", "NotoSans-Regular";
     --_16-regular-font-size: 16px;
     --_16-regular-letter-spacing: 0px;
     --_16-regular-line-height: 150%;
     --_16-regular-font-weight: 400;
     --_16-regular-color: black;
     /** _16-regular-150 **/
-    --_16-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_16-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_16-regular-150-font-size: 16px;
     --_16-regular-150-letter-spacing: 0px;
     --_16-regular-150-line-height: 150%;
     --_16-regular-150-font-weight: 400;
     --_16-regular-150-color: black;
     /** _16-regular-100 **/
-    --_16-regular-100-font-family: "SF Pro Text", "SFProText-Regular";
+    --_16-regular-100-font-family: "NotoSans", "NotoSans-Regular";
     --_16-regular-100-font-size: 16px;
     --_16-regular-100-letter-spacing: 0px;
     --_16-regular-100-line-height: 100%;
     --_16-regular-100-font-weight: 400;
     --_16-regular-100-color: black;
     /** _16-regular-125 **/
-    --_16-regular-125-font-family: "SF Pro Text";
+    --_16-regular-125-font-family: "NotoSans";
     --_16-regular-125-font-size: 16px;
     --_16-regular-125-letter-spacing: 0px;
     --_16-regular-125-line-height: 125%;
     --_16-regular-125-font-weight: 400;
     --_16-regular-125-color: black;
     /** _16-secondary-regular-150 **/
-    --_16-secondary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_16-secondary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_16-secondary-regular-150-font-size: 16px;
     --_16-secondary-regular-150-letter-spacing: 0px;
     --_16-secondary-regular-150-line-height: 150%;
     --_16-secondary-regular-150-font-weight: 400;
     --_16-secondary-regular-150-color: black;
     /** _16-semibold **/
-    --_16-semibold-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_16-semibold-font-family: "NotoSans", "NotoSans-Semibold";
     --_16-semibold-font-size: 16px;
     --_16-semibold-letter-spacing: 0px;
     --_16-semibold-line-height: 150%;
     --_16-semibold-font-weight: 600;
     --_16-semibold-color: black;
     /** _16-semibold-150 **/
-    --_16-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_16-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_16-semibold-150-font-size: 16px;
     --_16-semibold-150-letter-spacing: 0px;
     --_16-semibold-150-line-height: 150%;
     --_16-semibold-150-font-weight: 600;
     --_16-semibold-150-color: black;
     /** _18-bold-100 **/
-    --_18-bold-100-font-family: "SF Pro Text", "SFProText-Bold";
+    --_18-bold-100-font-family: "NotoSans", "NotoSans-Bold";
     --_18-bold-100-font-size: 18px;
     --_18-bold-100-letter-spacing: 0px;
     --_18-bold-100-line-height: 100%;
     --_18-bold-100-font-weight: 700;
     /** _18-bold-125 **/
-    --_18-bold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_18-bold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_18-bold-125-font-size: 18px;
     --_18-bold-125-letter-spacing: 0px;
     --_18-bold-125-line-height: 125%;
     --_18-bold-125-font-weight: 700;
     --_18-bold-125-color: black;
     /** _18-primary-bold-100 **/
-    --_18-primary-bold-100-font-family: "SF Pro Text", "SFProText-Bold";
+    --_18-primary-bold-100-font-family: "NotoSans", "NotoSans-Bold";
     --_18-primary-bold-100-font-size: 18px;
     --_18-primary-bold-100-letter-spacing: 0px;
     --_18-primary-bold-100-line-height: 100%;
     --_18-primary-bold-100-font-weight: 700;
     --_18-primary-bold-100-color: black;
     /** _18-primary-bold-125 **/
-    --_18-primary-bold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_18-primary-bold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_18-primary-bold-125-font-size: 18px;
     --_18-primary-bold-125-letter-spacing: 0px;
     --_18-primary-bold-125-line-height: 125%;
     --_18-primary-bold-125-font-weight: 700;
     --_18-primary-bold-125-color: black;
     /** _18-primary-regular-100 **/
-    --_18-primary-regular-100-font-family: "SF Pro Text", "SFProText-Regular";
+    --_18-primary-regular-100-font-family: "NotoSans", "NotoSans-Regular";
     --_18-primary-regular-100-font-size: 18px;
     --_18-primary-regular-100-letter-spacing: 0px;
     --_18-primary-regular-100-line-height: 100%;
     --_18-primary-regular-100-font-weight: 400;
     --_18-primary-regular-100-color: black;
     /** _18-primary-regular-125 **/
-    --_18-primary-regular-125-font-family: "SF Pro Text", "SFProText-Regular";
+    --_18-primary-regular-125-font-family: "NotoSans", "NotoSans-Regular";
     --_18-primary-regular-125-font-size: 18px;
     --_18-primary-regular-125-letter-spacing: 0px;
     --_18-primary-regular-125-line-height: 125%;
     --_18-primary-regular-125-font-weight: 400;
     --_18-primary-regular-125-color: black;
     /** _18-primary-regular-150 **/
-    --_18-primary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_18-primary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_18-primary-regular-150-font-size: 18px;
     --_18-primary-regular-150-letter-spacing: 0px;
     --_18-primary-regular-150-line-height: 150%;
     --_18-primary-regular-150-font-weight: 400;
     --_18-primary-regular-150-color: black;
     /** _18-primary-semibold-100 **/
-    --_18-primary-semibold-100-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_18-primary-semibold-100-font-family: "NotoSans", "NotoSans-Semibold";
     --_18-primary-semibold-100-font-size: 18px;
     --_18-primary-semibold-100-letter-spacing: 0px;
     --_18-primary-semibold-100-line-height: 100%;
     --_18-primary-semibold-100-font-weight: 600;
     --_18-primary-semibold-100-color: black;
     /** _18-primary-semibold-150 **/
-    --_18-primary-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_18-primary-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_18-primary-semibold-150-font-size: 18px;
     --_18-primary-semibold-150-letter-spacing: 0px;
     --_18-primary-semibold-150-line-height: 150%;
     --_18-primary-semibold-150-font-weight: 600;
     --_18-primary-semibold-150-color: black;
     /** _18-primary-semibold-125 **/
-    --_18-primary-semibold-125-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_18-primary-semibold-125-font-family: "NotoSans", "NotoSans-Semibold";
     --_18-primary-semibold-125-font-size: 18px;
     --_18-primary-semibold-125-letter-spacing: 0px;
     --_18-primary-semibold-125-line-height: 125%;
     --_18-primary-semibold-125-font-weight: 600;
     --_18-primary-semibold-125-color: black;
     /** _18-regular-100 **/
-    --_18-regular-100-font-family: "SF Pro Text", "SFProText-Regular";
+    --_18-regular-100-font-family: "NotoSans", "NotoSans-Regular";
     --_18-regular-100-font-size: 18px;
     --_18-regular-100-letter-spacing: 0px;
     --_18-regular-100-line-height: 100%;
     --_18-regular-100-font-weight: 400;
     --_18-regular-100-color: black;
     /** _18-regular-125 **/
-    --_18-regular-125-font-family: "SF Pro Text", "SFProText-Regular";
+    --_18-regular-125-font-family: "NotoSans", "NotoSans-Regular";
     --_18-regular-125-font-size: 18px;
     --_18-regular-125-letter-spacing: 0px;
     --_18-regular-125-line-height: 125%;
     --_18-regular-125-font-weight: 400;
     --_18-regular-125-color: black;
     /** _18-regular-150 **/
-    --_18-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_18-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_18-regular-150-font-size: 18px;
     --_18-regular-150-letter-spacing: 0px;
     --_18-regular-150-line-height: 150%;
     --_18-regular-150-font-weight: 400;
     --_18-regular-150-color: black;
     /** _18-regular **/
-    --_18-regular-font-family: "SF Pro Text", "SFProText-Regular";
+    --_18-regular-font-family: "NotoSans", "NotoSans-Regular";
     --_18-regular-font-size: 18px;
     --_18-regular-letter-spacing: 0px;
     --_18-regular-line-height: 150%;
     --_18-regular-font-weight: 400;
     --_18-regular-color: black;
     /** _18-regular-150 **/
-    --_18-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_18-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_18-regular-150-font-size: 18px;
     --_18-regular-150-letter-spacing: 0px;
     --_18-regular-150-line-height: 150%;
@@ -836,35 +836,35 @@
     --_18-regular-link-body-text-decoration: underline;
     --_18-regular-link-body-color: black;
     /** _18-secondary-regular-125 **/
-    --_18-secondary-regular-125-font-family: "SF Pro Text", "SFProText-Regular";
+    --_18-secondary-regular-125-font-family: "NotoSans", "NotoSans-Regular";
     --_18-secondary-regular-125-font-size: 18px;
     --_18-secondary-regular-125-letter-spacing: 0px;
     --_18-secondary-regular-125-line-height: 125%;
     --_18-secondary-regular-125-font-weight: 400;
     --_18-secondary-regular-125-color: black;
     /** _18-secondary-regular-150 **/
-    --_18-secondary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_18-secondary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_18-secondary-regular-150-font-size: 18px;
     --_18-secondary-regular-150-letter-spacing: 0px;
     --_18-secondary-regular-150-line-height: 150%;
     --_18-secondary-regular-150-font-weight: 400;
     --_18-secondary-regular-150-color: black;
     /** _18-semibold **/
-    --_18-semibold-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_18-semibold-font-family: "NotoSans", "NotoSans-Semibold";
     --_18-semibold-font-size: 18px;
     --_18-semibold-letter-spacing: 0px;
     --_18-semibold-line-height: 150%;
     --_18-semibold-font-weight: 600;
     --_18-semibold-color: black;
     /** _18-semibold-125 **/
-    --_18-semibold-125-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_18-semibold-125-font-family: "NotoSans", "NotoSans-Semibold";
     --_18-semibold-125-font-size: 18px;
     --_18-semibold-125-letter-spacing: 0px;
     --_18-semibold-125-line-height: 125%;
     --_18-semibold-125-font-weight: 600;
     --_18-semibold-125-color: black;
     /** _18-semibold-150 **/
-    --_18-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_18-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_18-semibold-150-font-size: 18px;
     --_18-semibold-150-letter-spacing: 0px;
     --_18-semibold-150-line-height: 150%;
@@ -878,126 +878,126 @@
     --_18-semibold-cards-title-font-weight: 600;
     --_18-semibold-cards-title-color: black;
     /** _20-bold **/
-    --_20-bold-font-family: "SF Pro Text", "SFProText-Bold";
+    --_20-bold-font-family: "NotoSans", "NotoSans-Bold";
     --_20-bold-font-size: 20px;
     --_20-bold-letter-spacing: 0px;
     --_20-bold-line-height: 125%;
     --_20-bold-font-weight: 700;
     --_20-bold-color: black;
     /** _20-bold-100 **/
-    --_20-bold-100-font-family: "SF Pro Text", "SFProText-Bold";
+    --_20-bold-100-font-family: "NotoSans", "NotoSans-Bold";
     --_20-bold-100-font-size: 20px;
     --_20-bold-100-letter-spacing: 0px;
     --_20-bold-100-line-height: 100%;
     --_20-bold-100-font-weight: 700;
     --_20-bold-100-color: black;
     /** _20-bold-125 **/
-    --_20-bold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_20-bold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_20-bold-125-font-size: 20px;
     --_20-bold-125-letter-spacing: 0px;
     --_20-bold-125-line-height: 125%;
     --_20-bold-125-font-weight: 700;
     --_20-bold-125-color: black;
     /** _20-bold-150 **/
-    --_20-bold-150-font-family: "SF Pro Text", "SFProText-Bold";
+    --_20-bold-150-font-family: "NotoSans", "NotoSans-Bold";
     --_20-bold-150-font-size: 20px;
     --_20-bold-150-letter-spacing: 0px;
     --_20-bold-150-line-height: 150%;
     --_20-bold-150-font-weight: 700;
     --_20-bold-150-color: black;
     /** _20-primary-regular-100 **/
-    --_20-primary-regular-100-font-family: "SF Pro Text", "SFProText-Bold";
+    --_20-primary-regular-100-font-family: "NotoSans", "NotoSans-Bold";
     --_20-primary-regular-100-font-size: 20px;
     --_20-primary-regular-100-letter-spacing: 0px;
     --_20-primary-regular-100-line-height: 100%;
     --_20-primary-regular-100-font-weight: 400;
     --_20-primary-regular-100-color: black;
     /** _20-primary-semibold-125 **/
-    --_20-primary-semibold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_20-primary-semibold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_20-primary-semibold-125-font-size: 20px;
     --_20-primary-semibold-125-letter-spacing: 0px;
     --_20-primary-semibold-125-line-height: 125%;
     --_20-primary-semibold-125-font-weight: 600;
     --_20-primary-semibold-125-color: black;
     /** _20-primary-semibold-150 **/
-    --_20-primary-semibold-150-font-family: "SF Pro Text", "SFProText-Bold";
+    --_20-primary-semibold-150-font-family: "NotoSans", "NotoSans-Bold";
     --_20-primary-semibold-150-font-size: 20px;
     --_20-primary-semibold-150-letter-spacing: 0px;
     --_20-primary-semibold-150-line-height: 150%;
     --_20-primary-semibold-150-font-weight: 600;
     --_20-primary-semibold-150-color: black;
     /** _20-primary-bold-125 **/
-    --_20-primary-bold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_20-primary-bold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_20-primary-bold-125-font-size: 20px;
     --_20-primary-bold-125-letter-spacing: 0px;
     --_20-primary-bold-125-line-height: 125%;
     --_20-primary-bold-125-font-weight: 700;
     --_20-primary-bold-125-color: black;
     /** _20-primary-bold-150 **/
-    --_20-primary-bold-150-font-family: "SF Pro Text", "SFProText-Bold";
+    --_20-primary-bold-150-font-family: "NotoSans", "NotoSans-Bold";
     --_20-primary-bold-150-font-size: 20px;
     --_20-primary-bold-150-letter-spacing: 0px;
     --_20-primary-bold-150-line-height: 150%;
     --_20-primary-bold-150-font-weight: 700;
     --_20-primary-bold-150-color: black;
     /** _20-primary-regular-150 **/
-    --_20-primary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_20-primary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_20-primary-regular-150-font-size: 20px;
     --_20-primary-regular-150-letter-spacing: 0px;
     --_20-primary-regular-150-line-height: 150%;
     --_20-primary-regular-150-font-weight: 400;
     --_20-primary-regular-150-color: black;
     /** _20-primary-semibold-100 **/
-    --_20-primary-semibold-100-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_20-primary-semibold-100-font-family: "NotoSans", "NotoSans-Semibold";
     --_20-primary-semibold-100-font-size: 20px;
     --_20-primary-semibold-100-letter-spacing: 0px;
     --_20-primary-semibold-100-line-height: 100%;
     --_20-primary-semibold-100-font-weight: 600;
     --_20-primary-semibold-100-color: black;
     /** _20-primary-semibold-150 **/
-    --_20-primary-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_20-primary-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_20-primary-semibold-150-font-size: 20px;
     --_20-primary-semibold-150-letter-spacing: 0px;
     --_20-primary-semibold-150-line-height: 150%;
     --_20-primary-semibold-150-font-weight: 600;
     --_20-primary-semibold-150-color: black;
     /** _20-regular-125 **/
-    --_20-regular-125-font-family: "SF Pro Text", "SFProText-Regular";
+    --_20-regular-125-font-family: "NotoSans", "NotoSans-Regular";
     --_20-regular-125-font-size: 20px;
     --_20-regular-125-letter-spacing: 0px;
     --_20-regular-125-line-height: 125%;
     --_20-regular-125-font-weight: 400;
     --_20-regular-125-color: black;
     /** _20-regular-150 **/
-    --_20-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_20-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_20-regular-150-font-size: 20px;
     --_20-regular-150-letter-spacing: 0px;
     --_20-regular-150-line-height: 150%;
     --_20-regular-150-font-weight: 400;
     --_20-regular-150-color: black;
     /** _20-secondary-regular-150 **/
-    --_20-secondary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_20-secondary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_20-secondary-regular-150-font-size: 20px;
     --_20-secondary-regular-150-letter-spacing: 0px;
     --_20-secondary-regular-150-line-height: 150%;
     --_20-secondary-regular-150-font-weight: 400;
     --_20-secondary-regular-150-color: black;
     /** _20-semibold **/
-    --_20-semibold-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_20-semibold-font-family: "NotoSans", "NotoSans-Semibold";
     --_20-semibold-font-size: 20px;
     --_20-semibold-letter-spacing: 0px;
     --_20-semibold-line-height: 150%;
     --_20-semibold-font-weight: 600;
     --_20-semibold-color: black;
     /** _20-semibold-150 **/
-    --_20-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_20-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_20-semibold-150-font-size: 20px;
     --_20-semibold-150-letter-spacing: 0px;
     --_20-semibold-150-line-height: 150%;
     --_20-semibold-150-font-weight: 600;
     --_20-semibold-150-color: black;
     /** _24-bold-125 **/
-    --_24-bold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_24-bold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_24-bold-125-font-size: 24px;
     --_24-bold-125-letter-spacing: 0px;
     --_24-bold-125-line-height: 125%;
@@ -1012,77 +1012,77 @@
     --_24-montserrat-semibold-title-banner-font-weight: 600;
     --_24-montserrat-semibold-title-banner-color: black;
     /** _24-primary-bold-100 **/
-    --_24-primary-bold-100-font-family: "SF Pro Text", "SFProText-Bold";
+    --_24-primary-bold-100-font-family: "NotoSans", "NotoSans-Bold";
     --_24-primary-bold-100-font-size: 24px;
     --_24-primary-bold-100-letter-spacing: 0px;
     --_24-primary-bold-100-line-height: 100%;
     --_24-primary-bold-100-font-weight: 700;
     --_24-primary-bold-100-color: black;
     /** _24-primary-bold-125 **/
-    --_24-primary-bold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_24-primary-bold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_24-primary-bold-125-font-size: 24px;
     --_24-primary-bold-125-letter-spacing: 0px;
     --_24-primary-bold-125-line-height: 100%;
     --_24-primary-bold-125-font-weight: 700;
     --_24-primary-bold-125-color: black;
     /** _24-primary-bold-150 **/
-    --_24-primary-bold-150-font-family: "SF Pro Text", "SFProText-Bold";
+    --_24-primary-bold-150-font-family: "NotoSans", "NotoSans-Bold";
     --_24-primary-bold-150-font-size: 24px;
     --_24-primary-bold-150-letter-spacing: 0px;
     --_24-primary-bold-150-line-height: 150%;
     --_24-primary-bold-150-font-weight: 700;
     --_24-primary-bold-150-color: black;
     /** _24-primary-regular-150 **/
-    --_24-primary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_24-primary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_24-primary-regular-150-font-size: 24px;
     --_24-primary-regular-150-letter-spacing: 0px;
     --_24-primary-regular-150-line-height: 150%;
     --_24-primary-regular-150-font-weight: 400;
     --_24-primary-regular-150-color: black;
     /** _24-primary-regular-125 **/
-    --_24-primary-regular-125-font-family: "SF Pro Text", "SFProText-Regular";
+    --_24-primary-regular-125-font-family: "NotoSans", "NotoSans-Regular";
     --_24-primary-regular-125-font-size: 24px;
     --_24-primary-regular-125-letter-spacing: 0px;
     --_24-primary-regular-125-line-height: 125%;
     --_24-primary-regular-125-font-weight: 400;
     --_24-primary-regular-125-color: black;
     /** _24-primary-semibold-100 **/
-    --_24-primary-semibold-100-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_24-primary-semibold-100-font-family: "NotoSans", "NotoSans-Semibold";
     --_24-primary-semibold-100-font-size: 24px;
     --_24-primary-semibold-100-letter-spacing: 0px;
     --_24-primary-semibold-100-line-height: 100%;
     --_24-primary-semibold-100-font-weight: 600;
     --_24-primary-semibold-100-color: black;
     /** _24-primary-semibold-125 **/
-    --_24-primary-semibold-125-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_24-primary-semibold-125-font-family: "NotoSans", "NotoSans-Semibold";
     --_24-primary-semibold-125-font-size: 24px;
     --_24-primary-semibold-125-letter-spacing: 0px;
     --_24-primary-semibold-125-line-height: 125%;
     --_24-primary-semibold-125-font-weight: 600;
     --_24-primary-semibold-125-color: black;
     /** _24-primary-semibold-150 **/
-    --_24-primary-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_24-primary-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_24-primary-semibold-150-font-size: 24px;
     --_24-primary-semibold-150-letter-spacing: 0px;
     --_24-primary-semibold-150-line-height: 150%;
     --_24-primary-semibold-150-font-weight: 600;
     --_24-primary-semibold-150-color: black;
     /** _24-regular **/
-    --_24-regular-font-family: "SF Pro Text", "SFProText-Regular";
+    --_24-regular-font-family: "NotoSans", "NotoSans-Regular";
     --_24-regular-font-size: 24px;
     --_24-regular-letter-spacing: 0px;
     --_24-regular-line-height: 100%;
     --_24-regular-font-weight: 400;
     --_24-regular-color: black;
     /** _24-regular-150 **/
-    --_24-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_24-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_24-regular-150-font-size: 24px;
     --_24-regular-150-letter-spacing: 0px;
     --_24-regular-150-line-height: 150%;
     --_24-regular-150-font-weight: 400;
     --_24-regular-150-color: black;
     /** _24-regular-125 **/
-    --_24-regular-125-font-family: "SF Pro Text", "SFProText-Regular";
+    --_24-regular-125-font-family: "NotoSans", "NotoSans-Regular";
     --_24-regular-125-font-size: 24px;
     --_24-regular-125-letter-spacing: 0px;
     --_24-regular-125-line-height: 125%;
@@ -1096,28 +1096,28 @@
     --_24-regular-quotes-font-weight: 600;
     --_24-regular-quotes-color: black;
     /** _24-secondary-regular-150 **/
-    --_24-secondary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_24-secondary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_24-secondary-regular-150-font-size: 24px;
     --_24-secondary-regular-150-letter-spacing: 0px;
     --_24-secondary-regular-150-line-height: 150%;
     --_24-secondary-regular-150-font-weight: 400;
     --_24-secondary-regular-150-color: black;
     /** _24-semibold-125 **/
-    --_24-semibold-125-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_24-semibold-125-font-family: "NotoSans", "NotoSans-Semibold";
     --_24-semibold-125-font-size: 24px;
     --_24-semibold-125-letter-spacing: 0px;
     --_24-semibold-125-line-height: 125%;
     --_24-semibold-125-font-weight: 600;
     --_24-semibold-125-color: black;
     /** _24-semibold-150 **/
-    --_24-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_24-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_24-semibold-150-font-size: 24px;
     --_24-semibold-150-letter-spacing: 0px;
     --_24-semibold-150-line-height: 150%;
     --_24-semibold-150-font-weight: 600;
     --_24-semibold-150-color: black;
     /** _28-bold-125 **/
-    --_28-bold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_28-bold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_28-bold-125-font-size: 28px;
     --_28-bold-125-letter-spacing: 0px;
     --_28-bold-125-line-height: 125%;
@@ -1131,7 +1131,7 @@
     --_28-montserrat-semibold-font-weight: 600;
     --_28-montserrat-semibold-color: black;
     /** _28-primary-bold-100 **/
-    --_28-primary-bold-100-font-family: "SF Pro Text", "SFProText-Bold";
+    --_28-primary-bold-100-font-family: "NotoSans", "NotoSans-Bold";
     --_28-primary-bold-100-font-size: 28px;
     --_28-primary-bold-100-letter-spacing: 0px;
     --_28-primary-bold-100-line-height: 100%;
@@ -1139,7 +1139,7 @@
     --_28-primary-bold-100-color: black;
 
     /** _28-primary-bold-125 **/
-    --_28-primary-bold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_28-primary-bold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_28-primary-bold-125-font-size: 28px;
     --_28-primary-bold-125-letter-spacing: 0px;
     --_28-primary-bold-125-line-height: 125%;
@@ -1147,336 +1147,336 @@
     --_28-primary-bold-125-color: black;
 
     /** _28-primary-bold-150 **/
-    --_28-primary-bold-150-font-family: "SF Pro Text", "SFProText-Bold";
+    --_28-primary-bold-150-font-family: "NotoSans", "NotoSans-Bold";
     --_28-primary-bold-150-font-size: 28px;
     --_28-primary-bold-150-letter-spacing: 0px;
     --_28-primary-bold-150-line-height: 150%;
     --_28-primary-bold-150-font-weight: 700;
     --_28-primary-bold-150-color: black;
     /** _28-primary-regular-150 **/
-    --_28-primary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_28-primary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_28-primary-regular-150-font-size: 28px;
     --_28-primary-regular-150-letter-spacing: 0px;
     --_28-primary-regular-150-line-height: 150%;
     --_28-primary-regular-150-font-weight: 400;
     --_28-primary-regular-150-color: black;
     /** _28-primary-semibold-125 **/
-    --_28-primary-semibold-125-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_28-primary-semibold-125-font-family: "NotoSans", "NotoSans-Semibold";
     --_28-primary-semibold-125-font-size: 28px;
     --_28-primary-semibold-125-letter-spacing: 0px;
     --_28-primary-semibold-125-line-height: 125%;
     --_28-primary-semibold-125-font-weight: 600;
     --_28-primary-semibold-125-color: black;
     /** _28-primary-semibold-150 **/
-    --_28-primary-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_28-primary-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_28-primary-semibold-150-font-size: 28px;
     --_28-primary-semibold-150-letter-spacing: 0px;
     --_28-primary-semibold-150-line-height: 150%;
     --_28-primary-semibold-150-font-weight: 600;
     --_28-primary-semibold-150-color: black;
     /** _28-primary-semibold-100 **/
-    --_28-primary-semibold-100-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_28-primary-semibold-100-font-family: "NotoSans", "NotoSans-Semibold";
     --_28-primary-semibold-100-font-size: 28px;
     --_28-primary-semibold-100-letter-spacing: 0px;
     --_28-primary-semibold-100-line-height: 100%;
     --_28-primary-semibold-100-font-weight: 600;
     --_28-primary-semibold-100-color: black;
     /** _28-primary-regular-100 **/
-    --_28-primary-regular-100-font-family: "SF Pro Text", "SFProText-Regular";
+    --_28-primary-regular-100-font-family: "NotoSans", "NotoSans-Regular";
     --_28-primary-regular-100-font-size: 28px;
     --_28-primary-regular-100-letter-spacing: 0px;
     --_28-primary-regular-100-line-height: 100%;
     --_28-primary-regular-100-font-weight: 400;
     --_28-primary-regular-100-color: black;
     /** _28-regular-150 **/
-    --_28-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_28-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_28-regular-150-font-size: 28px;
     --_28-regular-150-letter-spacing: 0px;
     --_28-regular-150-line-height: 150%;
     --_28-regular-150-font-weight: 400;
     --_28-regular-150-color: black;
     /** _28-secondary-regular-150 **/
-    --_28-secondary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_28-secondary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_28-secondary-regular-150-font-size: 28px;
     --_28-secondary-regular-150-letter-spacing: 0px;
     --_28-secondary-regular-150-line-height: 150%;
     --_28-secondary-regular-150-font-weight: 400;
     --_28-secondary-regular-150-color: black;
     /** _28-semibold **/
-    --_28-semibold-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_28-semibold-font-family: "NotoSans", "NotoSans-Semibold";
     --_28-semibold-font-size: 28px;
     --_28-semibold-letter-spacing: 0px;
     --_28-semibold-line-height: 150%;
     --_28-semibold-font-weight: 600;
     --_28-semibold-color: black;
     /** _28-semibold-150 **/
-    --_28-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_28-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_28-semibold-150-font-size: 28px;
     --_28-semibold-150-letter-spacing: 0px;
     --_28-semibold-150-line-height: 150%;
     --_28-semibold-150-font-weight: 600;
     --_28-semibold-150-color: black;
     /** _32-bold-125 **/
-    --_32-bold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_32-bold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_32-bold-125-font-size: 32px;
     --_32-bold-125-letter-spacing: 0px;
     --_32-bold-125-line-height: 125%;
     --_32-bold-125-font-weight: 700;
     --_32-bold-125-color: black;
     /** _32-primary-bold-100 **/
-    --_32-primary-bold-100-font-family: "SF Pro Text", "SFProText-Bold";
+    --_32-primary-bold-100-font-family: "NotoSans", "NotoSans-Bold";
     --_32-primary-bold-100-font-size: 32px;
     --_32-primary-bold-100-letter-spacing: 0px;
     --_32-primary-bold-100-line-height: 100%;
     --_32-primary-bold-100-font-weight: 700;
     --_32-primary-bold-100-color: black;
     /** _32-primary-bold-125 **/
-    --_32-primary-bold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_32-primary-bold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_32-primary-bold-125-font-size: 32px;
     --_32-primary-bold-125-letter-spacing: 0px;
     --_32-primary-bold-125-line-height: 125%;
     --_32-primary-bold-125-font-weight: 700;
     --_32-primary-bold-125-color: black;
     /** _32-primary-bold-150 **/
-    --_32-primary-bold-150-font-family: "SF Pro Text", "SFProText-Bold";
+    --_32-primary-bold-150-font-family: "NotoSans", "NotoSans-Bold";
     --_32-primary-bold-150-font-size: 32px;
     --_32-primary-bold-150-letter-spacing: 0px;
     --_32-primary-bold-150-line-height: 150%;
     --_32-primary-bold-150-font-weight: 700;
     --_32-primary-bold-150-color: black;
     /** _32-primary-regular-150 **/
-    --_32-primary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_32-primary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_32-primary-regular-150-font-size: 32px;
     --_32-primary-regular-150-letter-spacing: 0px;
     --_32-primary-regular-150-line-height: 150%;
     --_32-primary-regular-150-font-weight: 400;
     --_32-primary-regular-150-color: black;
     /** _32-primary-semibold-100 **/
-    --_32-primary-semibold-100-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_32-primary-semibold-100-font-family: "NotoSans", "NotoSans-Semibold";
     --_32-primary-semibold-100-font-size: 32px;
     --_32-primary-semibold-100-letter-spacing: 0px;
     --_32-primary-semibold-100-line-height: 100%;
     --_32-primary-semibold-100-font-weight: 600;
     --_32-primary-semibold-100-color: black;
     /** _32-primary-semibold-125 **/
-    --_32-primary-semibold-125-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_32-primary-semibold-125-font-family: "NotoSans", "NotoSans-Semibold";
     --_32-primary-semibold-125-font-size: 32px;
     --_32-primary-semibold-125-letter-spacing: 0px;
     --_32-primary-semibold-125-line-height: 125%;
     --_32-primary-semibold-125-font-weight: 600;
     --_32-primary-semibold-125-color: black;
     /** _32-primary-semibold-150 **/
-    --_32-primary-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_32-primary-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_32-primary-semibold-150-font-size: 32px;
     --_32-primary-semibold-150-letter-spacing: 0px;
     --_32-primary-semibold-150-line-height: 150%;
     --_32-primary-semibold-150-font-weight: 600;
     --_32-primary-semibold-150-color: black;
     /** _32-regular-150 **/
-    --_32-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_32-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_32-regular-150-font-size: 32px;
     --_32-regular-150-letter-spacing: 0px;
     --_32-regular-150-line-height: 150%;
     --_32-regular-150-font-weight: 400;
     --_32-regular-150-color: black;
     /** _32-secondary-regular-150 **/
-    --_32-secondary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_32-secondary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_32-secondary-regular-150-font-size: 32px;
     --_32-secondary-regular-150-letter-spacing: 0px;
     --_32-secondary-regular-150-line-height: 150%;
     --_32-secondary-regular-150-font-weight: 400;
     --_32-secondary-regular-150-color: black;
     /** _32-regular-125 **/
-    --_32-regular-125-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_32-regular-125-font-family: "NotoSans", "NotoSans-Semibold";
     --_32-regular-125-font-size: 32px;
     --_32-regular-125-letter-spacing: 0px;
     --_32-regular-125-line-height: 125%;
     --_32-regular-125-font-weight: 400;
     --_32-regular-125-color: black;
     /** _32-semibold-125 **/
-    --_32-semibold-125-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_32-semibold-125-font-family: "NotoSans", "NotoSans-Semibold";
     --_32-semibold-125-font-size: 32px;
     --_32-semibold-125-letter-spacing: 0px;
     --_32-semibold-125-line-height: 125%;
     --_32-semibold-125-font-weight: 600;
     --_32-semibold-125-color: black;
     /** _32-semibold-150 **/
-    --_32-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_32-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_32-semibold-150-font-size: 32px;
     --_32-semibold-150-letter-spacing: 0px;
     --_32-semibold-150-line-height: 150%;
     --_32-semibold-150-font-weight: 600;
     --_32-semibold-150-color: black;
     /** _36-bold-125 **/
-    --_36-bold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_36-bold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_36-bold-125-font-size: 36px;
     --_36-bold-125-letter-spacing: 0px;
     --_36-bold-125-line-height: 125%;
     --_36-bold-125-font-weight: 700;
     --_36-bold-125-color: black;
     /** _36-primary-regular-150 **/
-    --_36-primary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_36-primary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_36-primary-regular-150-font-size: 36px;
     --_36-primary-regular-150-letter-spacing: 0px;
     --_36-primary-regular-150-line-height: 150%;
     --_36-primary-regular-150-font-weight: 400;
     --_36-primary-regular-150-color: black;
     /** _36-primary-bold-100 **/
-    --_36-primary-bold-100-font-family: "SF Pro Text", "SFProText-Regular";
+    --_36-primary-bold-100-font-family: "NotoSans", "NotoSans-Regular";
     --_36-primary-bold-100-font-size: 36px;
     --_36-primary-bold-100-letter-spacing: 0px;
     --_36-primary-bold-100-line-height: 100%;
     --_36-primary-bold-100-font-weight: 700;
     --_36-primary-bold-100-color: black;
     /** _36-primary-bold-150 **/
-    --_36-primary-bold-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_36-primary-bold-150-font-family: "NotoSans", "NotoSans-Regular";
     --_36-primary-bold-150-font-size: 36px;
     --_36-primary-bold-150-letter-spacing: 0px;
     --_36-primary-bold-150-line-height: 150%;
     --_36-primary-bold-150-font-weight: 700;
     --_36-primary-bold-150-color: black;
     /** _36-regular-150 **/
-    --_36-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_36-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_36-regular-150-font-size: 36px;
     --_36-regular-150-letter-spacing: 0px;
     --_36-regular-150-line-height: 150%;
     --_36-regular-150-font-weight: 400;
     --_36-regular-150-color: black;
     /** _36-regular-125 **/
-    --_36-regular-125-font-family: "SF Pro Text", "SFProText-Regular";
+    --_36-regular-125-font-family: "NotoSans", "NotoSans-Regular";
     --_36-regular-125-font-size: 36px;
     --_36-regular-125-letter-spacing: 0px;
     --_36-regular-125-line-height: 125%;
     --_36-regular-125-font-weight: 400;
     --_36-regular-125-color: black;
     /** _36-secondary-regular-150 **/
-    --_36-secondary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_36-secondary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_36-secondary-regular-150-font-size: 36px;
     --_36-secondary-regular-150-letter-spacing: 0px;
     --_36-secondary-regular-150-line-height: 150%;
     --_36-secondary-regular-150-font-weight: 400;
     --_36-secondary-regular-150-color: black;
     /** _36-semibold **/
-    --_36-semibold-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_36-semibold-font-family: "NotoSans", "NotoSans-Semibold";
     --_36-semibold-font-size: 36px;
     --_36-semibold-letter-spacing: 0px;
     --_36-semibold-line-height: 150%;
     --_36-semibold-font-weight: 600;
     --_36-semibold-color: black;
     /** _36-semibold-150 **/
-    --_36-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_36-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_36-semibold-150-font-size: 36px;
     --_36-semibold-150-letter-spacing: 0px;
     --_36-semibold-150-line-height: 150%;
     --_36-semibold-150-font-weight: 600;
     --_36-semibold-150-color: black;
     /** _36-semibold-125 **/
-    --_36-semibold-125-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_36-semibold-125-font-family: "NotoSans", "NotoSans-Semibold";
     --_36-semibold-125-font-size: 36px;
     --_36-semibold-125-letter-spacing: 0px;
     --_36-semibold-125-line-height: 125%;
     --_36-semibold-125-font-weight: 600;
     --_36-semibold-125-color: black;
     /** _40-bold-125 **/
-    --_40-bold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_40-bold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_40-bold-125-font-size: 40px;
     --_40-bold-125-letter-spacing: 0px;
     --_40-bold-125-line-height: 125%;
     --_40-bold-125-font-weight: 700;
     --_40-bold-125-color: black;
     /** _40-primary-bold-125 **/
-    --_40-primary-bold-125-font-family: "SF Pro Text", "SFProText-Bold";
+    --_40-primary-bold-125-font-family: "NotoSans", "NotoSans-Bold";
     --_40-primary-bold-125-font-size: 40px;
     --_40-primary-bold-125-letter-spacing: 0px;
     --_40-primary-bold-125-line-height: 125%;
     --_40-primary-bold-125-font-weight: 700;
     --_40-primary-bold-125-color: black;
     /** _40-primary-bold-100 **/
-    --_40-primary-bold-100-font-family: "SF Pro Text", "SFProText-Regular";
+    --_40-primary-bold-100-font-family: "NotoSans", "NotoSans-Regular";
     --_40-primary-bold-100-font-size: 40px;
     --_40-primary-bold-100-letter-spacing: 0px;
     --_40-primary-bold-100-line-height: 100%;
     --_40-primary-bold-100-font-weight: 700;
     --_40-primary-bold-100-color: black;
     /** _40-primary-semibold-100 **/
-    --_40-primary-semibold-100-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_40-primary-semibold-100-font-family: "NotoSans", "NotoSans-Semibold";
     --_40-primary-semibold-100-font-size: 40px;
     --_40-primary-semibold-100-letter-spacing: 0px;
     --_40-primary-semibold-100-line-height: 100%;
     --_40-primary-semibold-100-font-weight: 600;
     --_40-primary-semibold-100-color: black;
     /** _40-primary-semibold-150 **/
-    --_40-primary-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_40-primary-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_40-primary-semibold-150-font-size: 40px;
     --_40-primary-semibold-150-letter-spacing: 0px;
     --_40-primary-semibold-150-line-height: 150%;
     --_40-primary-semibold-150-font-weight: 600;
     --_40-primary-semibold-150-color: black;
     /** _40-primary-regular-150 **/
-    --_40-primary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_40-primary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_40-primary-regular-150-font-size: 40px;
     --_40-primary-regular-150-letter-spacing: 0px;
     --_40-primary-regular-150-line-height: 150%;
     --_40-primary-regular-150-font-weight: 400;
     --_40-primary-regular-150-color: black;
     /** _40-regular-150 **/
-    --_40-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_40-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_40-regular-150-font-size: 40px;
     --_40-regular-150-letter-spacing: 0px;
     --_40-regular-150-line-height: 150%;
     --_40-regular-150-font-weight: 400;
     --_40-regular-150-color: black;
     /** _40-secondary-regular-150 **/
-    --_40-secondary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_40-secondary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_40-secondary-regular-150-font-size: 40px;
     --_40-secondary-regular-150-letter-spacing: 0px;
     --_40-secondary-regular-150-line-height: 150%;
     --_40-secondary-regular-150-font-weight: 400;
     --_40-secondary-regular-150-color: black;
     /** _40-semibold-150 **/
-    --_40-semibold-150-font-family: "SF Pro Text", "SFProText-Semibold";
+    --_40-semibold-150-font-family: "NotoSans", "NotoSans-Semibold";
     --_40-semibold-150-font-size: 40px;
     --_40-semibold-150-letter-spacing: 0px;
     --_40-semibold-150-line-height: 150%;
     --_40-semibold-150-font-weight: 600;
     --_40-semibold-150-color: black;
     /** _54-primary-bold-100 **/
-    --_54-primary-bold-100-font-family: "SF Pro Text", "SFProText-Bold";
+    --_54-primary-bold-100-font-family: "NotoSans", "NotoSans-Bold";
     --_54-primary-bold-100-font-size: 54px;
     --_54-primary-bold-100-letter-spacing: 0px;
     --_54-primary-bold-100-line-height: 100%;
     --_54-primary-bold-100-font-weight: 700;
     --_54-primary-bold-100-color: black;
     /** _54-primary-bold-150 **/
-    --_54-primary-bold-150-font-family: "SF Pro Text", "SFProText-Bold";
+    --_54-primary-bold-150-font-family: "NotoSans", "NotoSans-Bold";
     --_54-primary-bold-150-font-size: 54px;
     --_54-primary-bold-150-letter-spacing: 0px;
     --_54-primary-bold-150-line-height: 150%;
     --_54-primary-bold-150-font-weight: 700;
     --_54-primary-bold-150-color: black;
     /** _54-semi-bold-150 **/
-    --_54-primary-semibold-150-font-family: "SF Pro Text", "SFProText-Bold";
+    --_54-primary-semibold-150-font-family: "NotoSans", "NotoSans-Bold";
     --_54-primary-semibold-150-font-size: 54px;
     --_54-primary-semibold-150-letter-spacing: 0px;
     --_54-primary-semibold-150-line-height: 150%;
     --_54-primary-semibold-150-font-weight: 600;
     --_54-primary-semibold-150-color: black;
     /** _54-primary-regular-150 **/
-    --_54-primary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_54-primary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_54-primary-regular-150-font-size: 54px;
     --_54-primary-regular-150-letter-spacing: 0px;
     --_54-primary-regular-150-line-height: 150%;
     --_54-primary-regular-150-font-weight: 400;
     --_54-primary-regular-150-color: black;
     /** _54-regular-150 **/
-    --_54-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_54-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_54-regular-150-font-size: 54px;
     --_54-regular-150-letter-spacing: 0px;
     --_54-regular-150-line-height: 150%;
     --_54-regular-150-font-weight: 400;
     --_54-regular-150-color: black;
     /** _54-secondary-regular-150 **/
-    --_54-secondary-regular-150-font-family: "SF Pro Text", "SFProText-Regular";
+    --_54-secondary-regular-150-font-family: "NotoSans", "NotoSans-Regular";
     --_54-secondary-regular-150-font-size: 54px;
     --_54-secondary-regular-150-letter-spacing: 0px;
     --_54-secondary-regular-150-line-height: 150%;
