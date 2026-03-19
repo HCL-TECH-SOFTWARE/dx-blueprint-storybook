@@ -1,0 +1,11 @@
+thead {
+    display: none;
+}
+
+.sbdocs.sbdocs-content :where(table:not(.sb-anchor, .sb-unstyled, .sb-unstyled table)) {
+
+    tr,
+    td {
+        border: none;
+    }
+}
