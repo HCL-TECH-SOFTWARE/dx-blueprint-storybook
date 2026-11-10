@@ -1,0 +1,168 @@
+{
+  "common.empty.state.no.items.to.render": "No items to render",
+  "common.empty.state.no.items.to.display": "No items to display",
+  "common.empty.state.no.items.received": "No items received",
+  "common.dropdown.menu.aria.label": "Dropdown menu",
+  "common.menu.aria.label": "Menu",
+  "common.dialog.close.aria.label": "Close",
+  "common.card.visit.page.aria.label": "Visit the page for this content",
+  "common.pagination.aria.label": "Carousel pagination",
+  "common.filter.all.label": "All",
+  "common.view.more.label": "View More",
+
+  "navigation.search.placeholder": "Search this site",
+  "navigation.search.icon.label": "search icon",
+  "navigation.header.image.alt": "Header Image",
+
+  "microsite.navigation.open.label": "Open",
+
+  "local.footer.empty.links": "There are no links to display",
+  "local.footer.empty.sections": "There are no sections to display",
+
+  "button.default.label": "Default button label",
+
+  "banner.stripe.foreground.image.alt": "Banner foreground image",
+  "hero.banner.foreground.image.alt": "Hero banner foreground image",
+  "hero.banner.overlay.foreground.image.alt": "Hero banner overlay foreground image",
+
+  "mobile.tab.menu.nav.image.alt.prefix": "Mobile Tab Menu Navigation Image - ",
+
+  "video.loading": "Loading...",
+
+  "onboarding.next.label": "Next",
+  "onboarding.prev.label": "Back",
+  "onboarding.done.label": "Done",
+
+  "profile.info.default.reward.label": "Give rewards",
+  "profile.info.edit.image.aria.label": "Edit profile info image",
+  "profile.info.default.social.title": "Contact me",
+  "profile.info.connect.on.teams.label": "Connect on Teams",
+  "profile.info.collapse.label": "Collapse Profile Info",
+  "profile.info.extend.label": "Extend Profile Info",
+
+  "user.dashboard.profile.picture.alt": "Profile Picture",
+  "user.dashboard.no.assigned.alt": "No Assigned",
+
+  "social.share.linkedin.aria.label": "Share this content into Linkedin",
+  "social.share.facebook.aria.label": "Share this content into Facebook",
+  "social.share.twitter.aria.label": "Share this content into Twitter",
+
+  "social.presence.linkedin.aria.label": "Visit our Linkedin profile",
+  "social.presence.facebook.aria.label": "Visit our Facebook profile",
+  "social.presence.twitter.aria.label": "Visit our Twitter profile",
+  "social.presence.instagram.aria.label": "Visit our Instagram profile",
+
+  "gallery.prev.aria.label": "left arrow",
+  "gallery.next.aria.label": "right arrow",
+
+  "modal.windows.aria.label": "modal windows",
+  "modal.windows.body.aria.label": "body modal windows",
+
+  "my.saved.links.empty.title": "No Events!",
+  "my.saved.links.empty.text": "When you have more events, they will appear in here.",
+
+  "full.calendar.month.label": "Month",
+  "full.calendar.week.label": "Week",
+  "full.calendar.filters.label": "Calendar Filters",
+  "full.calendar.today.label": "Today",
+
+  "calendar.see.more.label": "See all events for today",
+
+  "event.details.add.to.calendar.label": "Add to My Calendar",
+  "event.details.contact.label": "Contact",
+  "event.details.get.directions.label": "Get Directions",
+  "event.details.share.label": "Share",
+  "event.details.register.label": "Register",
+  "event.details.close.label": "close",
+
+  "event.tabs.previous.label": "previous",
+  "event.tabs.next.label": "next",
+
+  "event.catalog.event.type.filter.label": "Event Type",
+
+  "menu.organizer.empty.title": "No Saved Items!",
+  "menu.organizer.empty.text": "You don't have any saved items at this time, so please start saving your pages and they will appear here.",
+
+  "weekly.calendar.view.full.calendar.label": "View full calendar",
+  "weekly.calendar.ok.label": "OK",
+  "weekly.calendar.more.events.suffix": "more",
+
+  "org.chart.collapse.label": "Collapse",
+
+  "quick.links.default.title": "Quick Links",
+
+  "taxonomy.filter.options.label": "Filter Options",
+  "taxonomy.filter.select.value.label": "Select {label} value",
+  "taxonomy.filter.search.label": "Filter by keyword",
+  "taxonomy.filter.search.placeholder": "Type what are you looking for",
+
+  "ticker.service.unavailable.title": "Oh no! Service Unavailable",
+  "ticker.service.unavailable.text": "We are having connections issues. Please try again later.",
+  "ticker.menu.view.more.label": "View more",
+
+  "newsletter.banner.email.validation.error": "Please enter a valid email",
+  "newsletter.banner.submit.label": "Submit",
+  "newsletter.banner.email.placeholder": "Enter your email",
+  "newsletter.banner.message.placeholder": "Enter your message",
+
+  "upcoming.events.clear.filters.label": "Clear Filters",
+
+  "parallax.content.block.visit.prefix": "Visit",
+
+  "carousel.too.many.items.error": "You cannot have more than 3 items on the carousel",
+
+  "search.input.button.label": "See all search results",
+  "search.suggestions.placeholder": "I want to...",
+
+  "privacy.filter.show.label": "Show values",
+  "privacy.filter.hide.label": "Hide values",
+
+  "questions.tabs.view.answer.label": "View answer in a separate page",
+
+  "river.of.content.view.all.label": "View All",
+
+  "jira.task.card.empty.title": "No tasks here",
+  "jira.task.card.empty.text": "Contact your manager for additional assignments",
+  "jira.task.card.filter.by.label": "Filter by",
+
+  "data.table.no.expand.content": "No content received for this row",
+
+  "dxquote.author.image.alt": "Author Image",
+
+  "cec.event.date.time.aria.label": "Event date and time",
+  "cec.event.location.aria.label": "Event location",
+  "cec.event.tags.aria.label": "Event tags",
+  "cec.event.online.meeting.label": "Online meeting",
+  "cec.event.no.description.aria.label": "No description available",
+
+  "cec.news.card.image.alt": "News Image",
+  "cec.news.untitled.label": "Untitled Post",
+
+  "cec.pagination.page.label": "Page",
+  "cec.pagination.items.per.page.label": "Items per page",
+  "cec.pagination.showing.label": "Showing",
+  "cec.pagination.of.label": "of",
+  "cec.pagination.first.aria.label": "First page",
+  "cec.pagination.previous.aria.label": "Previous page",
+  "cec.pagination.next.aria.label": "Next page",
+  "cec.pagination.last.aria.label": "Last page",
+  "cec.pagination.more.pages.aria.label": "More pages",
+
+  "cec.upcoming.events.title.fallback": "Upcoming Events",
+  "cec.upcoming.events.untitled.label": "Untitled Event",
+  "cec.upcoming.events.unknown.author.label": "Unknown Author",
+  "cec.upcoming.events.entries.label": "Entries",
+  "cec.upcoming.events.search.label": "Search events",
+  "cec.upcoming.events.search.placeholder": "Type to search events...",
+  "cec.upcoming.events.search.generic.placeholder": "Type to search...",
+  "cec.upcoming.events.tags.filter.label": "Tags",
+  "cec.upcoming.events.recurrence.filter.label": "Recurrence",
+
+  "featured.stories.slider.aria.label": "Featured stories slider",
+  "featured.stories.prev.slide.aria.label": "Previous slide",
+  "featured.stories.next.slide.aria.label": "Next slide",
+  "featured.stories.play.aria.label": "Play slideshow (Space)",
+  "featured.stories.pause.aria.label": "Pause slideshow (Space)",
+  "featured.stories.play.title": "Play",
+  "featured.stories.pause.title": "Pause"
+}
